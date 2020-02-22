@@ -20,7 +20,6 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 @Table(name = "student")
 public class Student implements Serializable {
 
-	private static final long serialVersionUID = 8436097833452420298L;
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
