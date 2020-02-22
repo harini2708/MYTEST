@@ -1,3 +1,3 @@
 # MYTEST
-MY TEST PROGRAM
+MY TES PROGRAM
 updates to TEST program
